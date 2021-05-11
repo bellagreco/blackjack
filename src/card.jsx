@@ -11,16 +11,6 @@ class Card extends Component {
 
     }
 
-    //  getCards = (props) => {
-    //     if (this.props.suits == "♣︎" || this.props.suits == "♠︎") {
-    //       return (<div className="card card-black"><div className="card-tl"><div className="card-value">{this.props.values}</div><div className="card-suit">{this.props.suits}</div></div><div className="card-br"><div className="card-value">{this.props.values}</div><div className="card-suit">{this.props.suits}</div></div></div>);
-    //     } else {
-    //       return (<div className="card card-red"><div className="card-tl"><div className="card-value">{this.props.value}</div><div className="card-suit">{this.props.suit}</div></div>
-    //         <div className="card-br"><div className="card-value">{this.props.value}</div><div className="card-suit">{this.props.suit}</div></div>
-    //         </div>);
-    //     }
-    //   };
-
     render() {
 
 
